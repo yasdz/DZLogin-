@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DZA LOGIN SCRIPT
 // @namespace    https://t.me/essekhaya
-// @version      1
+// @version      2
 // @description  try to take over the world!
 // @author       Editing by YASDZ-https://t.me/essekhaya
 // @match        https://algeria.blsspainglobal.com/*
